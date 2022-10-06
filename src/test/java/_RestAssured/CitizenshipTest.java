@@ -67,7 +67,7 @@ public class CitizenshipTest {
                .extract().jsonPath().getString("id")
         ;
         System.out.println("name manual = " + name);
-        T
+
     }
 
 
