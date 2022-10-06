@@ -53,6 +53,29 @@
             <version>1.7.21</version>
             <scope>test</scope>
         </dependency>
+        <dependency> <!-- for making api tests -->
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>4.3.1</version>
+        </dependency>
+
+        <dependency>  <!-- for assertions -->
+            <groupId>org.hamcrest</groupId>
+            <artifactId>hamcrest-all</artifactId>
+            <version>1.3</version>
+        </dependency>
+
+        <dependency> <!-- for writing tests -->
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.4.0</version>
+        </dependency>
+
+        <dependency> <!-- for extracting json as pojo -->
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.10.2</version>
+        </dependency>
 
 
         <!--        To generate extends report we need these 2 dependencies -->

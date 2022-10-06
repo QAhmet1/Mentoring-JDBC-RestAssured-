@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37d0e24e-9549-4665-9b75-dd60a39a178d" name="Changes" comment="" />
+    <list default="true" id="37d0e24e-9549-4665-9b75-dd60a39a178d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/Citizenship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/CitizenshipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2DRkRqNMymwxC2Cf4s6xrtgdGgR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,24 +57,56 @@
       <recent name="C:\Users\AHMET\IdeaProjects\Cucumber_Kursu3\src\test\java\ApachePOI\resource" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AHMET\IdeaProjects\Mentoring_Batch3\src\test\java\Utils" />
       <recent name="C:\Users\AHMET\IdeaProjects\Mentoring_Batch3\src\test\java\ApachePOI\resource" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.getAllData.test3">
-    <configuration name="BeforeAfter.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CitizenshipTest.createCitizenship">
+    <configuration name="Utils.yaziYazma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utils.yaziYazma" />
+      <module name="Mentoring_Batch3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myClass" />
+      <module name="Mentoring_Batch3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CitizenshipTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Mentoring_Batch3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_JDBC.day1.*" />
+          <option name="PATTERN" value="_RestAssured.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_JDBC.gun1" />
-      <option name="MAIN_CLASS_NAME" value="_JDBC.day1.BeforeAfter" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="_RestAssured" />
+      <option name="MAIN_CLASS_NAME" value="_RestAssured.CitizenshipTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CitizenshipTest.createCitizenship" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mentoring_Batch3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_RestAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_RestAssured" />
+      <option name="MAIN_CLASS_NAME" value="_RestAssured.CitizenshipTest" />
+      <option name="METHOD_NAME" value="createCitizenship" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,71 +114,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeforeAfter.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CitizenshipTest.login" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Mentoring_Batch3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_JDBC.day1.*" />
+          <option name="PATTERN" value="_RestAssured.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_JDBC.gun1" />
-      <option name="MAIN_CLASS_NAME" value="_JDBC.day1.BeforeAfter" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="getAllData.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Mentoring_Batch3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_JDBC.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="_JDBC.gun2" />
-      <option name="MAIN_CLASS_NAME" value="_JDBC.day2.getAllData" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="getAllData.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Mentoring_Batch3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_JDBC.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="_JDBC.gun2" />
-      <option name="MAIN_CLASS_NAME" value="_JDBC.day2.getAllData" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="getAllData.test3" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Mentoring_Batch3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_JDBC.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="_JDBC.gun2" />
-      <option name="MAIN_CLASS_NAME" value="_JDBC.day2.getAllData" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="_RestAssured" />
+      <option name="MAIN_CLASS_NAME" value="_RestAssured.CitizenshipTest" />
+      <option name="METHOD_NAME" value="login" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -150,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.getAllData.test3" />
-        <item itemvalue="TestNG.getAllData.test2" />
-        <item itemvalue="TestNG.getAllData.test1" />
-        <item itemvalue="TestNG.BeforeAfter.test1" />
-        <item itemvalue="TestNG.BeforeAfter.test2" />
+        <item itemvalue="TestNG.CitizenshipTest.createCitizenship" />
+        <item itemvalue="TestNG.CitizenshipTest.login" />
+        <item itemvalue="Application.Utils.yaziYazma" />
+        <item itemvalue="TestNG.CitizenshipTest" />
+        <item itemvalue="Application.myClass" />
       </list>
     </recent_temporary>
   </component>
@@ -179,5 +163,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
