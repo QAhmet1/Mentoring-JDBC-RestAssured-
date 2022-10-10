@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37d0e24e-9549-4665-9b75-dd60a39a178d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/Citizenship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/CitizenshipTest.java" afterDir="false" />
+    <list default="true" id="37d0e24e-9549-4665-9b75-dd60a39a178d" name="Changes" comment="restAssured">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_RestAssured/Citizenship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/Citizenship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_RestAssured/CitizenshipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/CitizenshipTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="Utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CitizenshipTest.createCitizenship">
+  <component name="RunManager" selected="TestNG.CitizenshipTest">
     <configuration name="Utils.yaziYazma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Utils.yaziYazma" />
       <module name="Mentoring_Batch3" />
@@ -134,10 +133,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CitizenshipTest" />
         <item itemvalue="TestNG.CitizenshipTest.createCitizenship" />
         <item itemvalue="TestNG.CitizenshipTest.login" />
         <item itemvalue="Application.Utils.yaziYazma" />
-        <item itemvalue="TestNG.CitizenshipTest" />
         <item itemvalue="Application.myClass" />
       </list>
     </recent_temporary>
@@ -151,6 +150,35 @@
       <option name="presentableId" value="Default" />
       <updated>1660669280049</updated>
     </task>
+    <task id="LOCAL-00001" summary="restAssured">
+      <created>1665071491910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665071491910</updated>
+    </task>
+    <task id="LOCAL-00002" summary="restAssured">
+      <created>1665071656150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665071656150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="restAssured">
+      <created>1665072956534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665072956534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="restAssured">
+      <created>1665072970420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665072970420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +193,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="restAssured" />
+    <option name="LAST_COMMIT_MESSAGE" value="restAssured" />
   </component>
 </project>
