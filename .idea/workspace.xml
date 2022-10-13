@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37d0e24e-9549-4665-9b75-dd60a39a178d" name="Changes" comment="restAssured">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_RestAssured/Citizenship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/Citizenship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_RestAssured/CitizenshipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_RestAssured/CitizenshipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
       <recent name="C:\Users\AHMET\IdeaProjects\Cucumber_Kursu3\src\test\java\ApachePOI\resource" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AHMET\IdeaProjects\Mentoring_Batch3\src\test\java\_RestAssured" />
       <recent name="C:\Users\AHMET\IdeaProjects\Mentoring_Batch3\src\test\java\Utils" />
       <recent name="C:\Users\AHMET\IdeaProjects\Mentoring_Batch3\src\test\java\ApachePOI\resource" />
     </key>
@@ -63,21 +63,7 @@
       <recent name="Utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CitizenshipTest">
-    <configuration name="Utils.yaziYazma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Utils.yaziYazma" />
-      <module name="Mentoring_Batch3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="myClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myClass" />
-      <module name="Mentoring_Batch3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.DocumentTest.createDocument">
     <configuration name="CitizenshipTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Mentoring_Batch3" />
       <extension name="coverage">
@@ -131,13 +117,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DocumentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mentoring_Batch3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_RestAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_RestAssured" />
+      <option name="MAIN_CLASS_NAME" value="_RestAssured.DocumentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentTest.createDocument" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mentoring_Batch3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_RestAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_RestAssured" />
+      <option name="MAIN_CLASS_NAME" value="_RestAssured.DocumentTest" />
+      <option name="METHOD_NAME" value="createDocument" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DocumentTest.createDocument" />
+        <item itemvalue="TestNG.DocumentTest" />
         <item itemvalue="TestNG.CitizenshipTest" />
         <item itemvalue="TestNG.CitizenshipTest.createCitizenship" />
         <item itemvalue="TestNG.CitizenshipTest.login" />
-        <item itemvalue="Application.Utils.yaziYazma" />
-        <item itemvalue="Application.myClass" />
       </list>
     </recent_temporary>
   </component>
